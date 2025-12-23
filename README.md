@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
     <img src="./public/assets/netflix-logo.png" alt="Logo" width="100" height="32">
@@ -93,3 +94,6 @@ docker run --name netflix-clone-website --rm -d -p 80:80 netflix-clone
 - Replace bundler([Vite](https://vitejs.dev/guide)) with [Turbopack](https://turbo.build/pack/docs/why-turbopack). Turbopack is introduced in Next.js conf recently. It's very fast but it's nor ready to use right now. it just support Next.js, and they plan to support all others as soon as possible. so if it's ready to use, replace [Vite](https://vitejs.dev/guide) with [Turbopack](https://turbo.build/pack/docs/why-turbopack).
 - Add accessibilities for better UX.
 - Add Tests.
+=======
+# netfliext
+>>>>>>> 531a84a7c35c8d1dcfade2ac7104fd1bff758232
